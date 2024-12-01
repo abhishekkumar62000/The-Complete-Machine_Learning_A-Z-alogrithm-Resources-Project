@@ -1,9 +1,9 @@
-# 😊Welcome to **My_Complete_Machine_Learning_A-Z_Algorithms_Master**! 🎉📚🤖
+# 😊Welcome to **The_Complete_Machine_Learning_A-Z_Algorithms_Master**! 🎉📚🤖
 
 
 # My_Complete_Machine_Learning_A-Z_Algorithms_Master 📚🤖
 
-Welcome to **My_Complete_Machine_Learning_A-Z_Algorithms_Master**! 🎉
+Welcome to **The_Complete_Machine_Learning_A-Z_Algorithms_Master**! 🎉
 
 ## 🚀 About this Project
 

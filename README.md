@@ -1,4 +1,6 @@
 # 😊Welcome to **The_Complete_Machine_Learning_A-Z_Algorithms_Master**! 🎉📚🤖
+![3d-rendering-kid-playing-online-removebg](https://github.com/user-attachments/assets/d1cabf72-c86b-480e-aa02-c337f8c66bf8)
+
 ![6491428](https://github.com/user-attachments/assets/add607f5-d3ab-45f8-bfad-66788777ab77)
 
 
